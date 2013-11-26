@@ -18,6 +18,26 @@
 		8E57D1E11772C7C40020515F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1E01772C7C40020515F /* Default-568h@2x.png */; };
 		8E57D1E41772C7C40020515F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E57D1E31772C7C40020515F /* ViewController.m */; };
 		8E57D1E71772C7C40020515F /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1E51772C7C40020515F /* ViewController.xib */; };
+		8E57D1EE1772C81B0020515F /* demodata.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1ED1772C81B0020515F /* demodata.plist */; };
+		8E57D1F71772CD9E0020515F /* beyond.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F01772CD9E0020515F /* beyond.png */; };
+		8E57D1F81772CD9E0020515F /* 张学友.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F11772CD9E0020515F /* 张学友.png */; };
+		8E57D1F91772CD9E0020515F /* 林夕.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F21772CD9E0020515F /* 林夕.png */; };
+		8E57D1FA1772CD9E0020515F /* 王力宏.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F31772CD9E0020515F /* 王力宏.png */; };
+		8E57D1FB1772CD9E0020515F /* 王菲.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F41772CD9E0020515F /* 王菲.png */; };
+		8E57D1FC1772CD9E0020515F /* 陈奕迅.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F51772CD9E0020515F /* 陈奕迅.png */; };
+		8E57D1FD1772CD9E0020515F /* 黄伟文.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1F61772CD9E0020515F /* 黄伟文.png */; };
+		8E57D2011772D00A0020515F /* 五月天.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1FE1772D00A0020515F /* 五月天.png */; };
+		8E57D2021772D00A0020515F /* 杨千嬅.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D1FF1772D00A0020515F /* 杨千嬅.png */; };
+		8E57D2031772D00A0020515F /* 何韵诗.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D2001772D00A0020515F /* 何韵诗.png */; };
+		8E57D2061772D1890020515F /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D2041772D1890020515F /* icon.png */; };
+		8E57D2071772D1890020515F /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D2051772D1890020515F /* icon@2x.png */; };
+		8E57D20E1772D3040020515F /* cart_full_show.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D20A1772D3040020515F /* cart_full_show.png */; };
+		8E57D20F1772D3040020515F /* cart_full_show@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D20B1772D3040020515F /* cart_full_show@2x.png */; };
+		8E57D2121772D3300020515F /* cart_empty.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D2101772D3300020515F /* cart_empty.png */; };
+		8E57D2131772D3300020515F /* cart_empty@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E57D2111772D3300020515F /* cart_empty@2x.png */; };
+		8E57D2191772D3CF0020515F /* UIGlossyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E57D2161772D3CF0020515F /* UIGlossyButton.m */; };
+		8E57D21A1772D3CF0020515F /* UIView+LayerEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E57D2181772D3CF0020515F /* UIView+LayerEffects.m */; };
+		8E57D21C1772D6480020515F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E57D21B1772D6480020515F /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +57,28 @@
 		8E57D1E21772C7C40020515F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		8E57D1E31772C7C40020515F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		8E57D1E61772C7C40020515F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		8E57D1ED1772C81B0020515F /* demodata.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = demodata.plist; sourceTree = "<group>"; };
+		8E57D1F01772CD9E0020515F /* beyond.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beyond.png; sourceTree = "<group>"; };
+		8E57D1F11772CD9E0020515F /* 张学友.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "张学友.png"; sourceTree = "<group>"; };
+		8E57D1F21772CD9E0020515F /* 林夕.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "林夕.png"; sourceTree = "<group>"; };
+		8E57D1F31772CD9E0020515F /* 王力宏.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "王力宏.png"; sourceTree = "<group>"; };
+		8E57D1F41772CD9E0020515F /* 王菲.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "王菲.png"; sourceTree = "<group>"; };
+		8E57D1F51772CD9E0020515F /* 陈奕迅.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "陈奕迅.png"; sourceTree = "<group>"; };
+		8E57D1F61772CD9E0020515F /* 黄伟文.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "黄伟文.png"; sourceTree = "<group>"; };
+		8E57D1FE1772D00A0020515F /* 五月天.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "五月天.png"; sourceTree = "<group>"; };
+		8E57D1FF1772D00A0020515F /* 杨千嬅.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "杨千嬅.png"; sourceTree = "<group>"; };
+		8E57D2001772D00A0020515F /* 何韵诗.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "何韵诗.png"; sourceTree = "<group>"; };
+		8E57D2041772D1890020515F /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		8E57D2051772D1890020515F /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		8E57D20A1772D3040020515F /* cart_full_show.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cart_full_show.png; sourceTree = "<group>"; };
+		8E57D20B1772D3040020515F /* cart_full_show@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_full_show@2x.png"; sourceTree = "<group>"; };
+		8E57D2101772D3300020515F /* cart_empty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cart_empty.png; sourceTree = "<group>"; };
+		8E57D2111772D3300020515F /* cart_empty@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cart_empty@2x.png"; sourceTree = "<group>"; };
+		8E57D2151772D3CF0020515F /* UIGlossyButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIGlossyButton.h; sourceTree = "<group>"; };
+		8E57D2161772D3CF0020515F /* UIGlossyButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIGlossyButton.m; sourceTree = "<group>"; };
+		8E57D2171772D3CF0020515F /* UIView+LayerEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+LayerEffects.h"; sourceTree = "<group>"; };
+		8E57D2181772D3CF0020515F /* UIView+LayerEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+LayerEffects.m"; sourceTree = "<group>"; };
+		8E57D21B1772D6480020515F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E57D21C1772D6480020515F /* QuartzCore.framework in Frameworks */,
 				8E57D1CB1772C7C40020515F /* UIKit.framework in Frameworks */,
 				8E57D1CD1772C7C40020515F /* Foundation.framework in Frameworks */,
 				8E57D1CF1772C7C40020515F /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +116,7 @@
 		8E57D1C91772C7C40020515F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				8E57D21B1772D6480020515F /* QuartzCore.framework */,
 				8E57D1CA1772C7C40020515F /* UIKit.framework */,
 				8E57D1CC1772C7C40020515F /* Foundation.framework */,
 				8E57D1CE1772C7C40020515F /* CoreGraphics.framework */,
@@ -96,6 +140,8 @@
 		8E57D1D11772C7C40020515F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8E57D2141772D3CF0020515F /* UIGlossyButton */,
+				8E57D1EF1772CD9E0020515F /* images */,
 				8E57D1D21772C7C40020515F /* AddShopCar demo-Info.plist */,
 				8E57D1D31772C7C40020515F /* InfoPlist.strings */,
 				8E57D1D61772C7C40020515F /* main.m */,
@@ -103,8 +149,43 @@
 				8E57D1DC1772C7C40020515F /* Default.png */,
 				8E57D1DE1772C7C40020515F /* Default@2x.png */,
 				8E57D1E01772C7C40020515F /* Default-568h@2x.png */,
+				8E57D1ED1772C81B0020515F /* demodata.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8E57D1EF1772CD9E0020515F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				8E57D2101772D3300020515F /* cart_empty.png */,
+				8E57D2111772D3300020515F /* cart_empty@2x.png */,
+				8E57D20A1772D3040020515F /* cart_full_show.png */,
+				8E57D20B1772D3040020515F /* cart_full_show@2x.png */,
+				8E57D2041772D1890020515F /* icon.png */,
+				8E57D2051772D1890020515F /* icon@2x.png */,
+				8E57D1FE1772D00A0020515F /* 五月天.png */,
+				8E57D1FF1772D00A0020515F /* 杨千嬅.png */,
+				8E57D2001772D00A0020515F /* 何韵诗.png */,
+				8E57D1F01772CD9E0020515F /* beyond.png */,
+				8E57D1F11772CD9E0020515F /* 张学友.png */,
+				8E57D1F21772CD9E0020515F /* 林夕.png */,
+				8E57D1F31772CD9E0020515F /* 王力宏.png */,
+				8E57D1F41772CD9E0020515F /* 王菲.png */,
+				8E57D1F51772CD9E0020515F /* 陈奕迅.png */,
+				8E57D1F61772CD9E0020515F /* 黄伟文.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		8E57D2141772D3CF0020515F /* UIGlossyButton */ = {
+			isa = PBXGroup;
+			children = (
+				8E57D2151772D3CF0020515F /* UIGlossyButton.h */,
+				8E57D2161772D3CF0020515F /* UIGlossyButton.m */,
+				8E57D2171772D3CF0020515F /* UIView+LayerEffects.h */,
+				8E57D2181772D3CF0020515F /* UIView+LayerEffects.m */,
+			);
+			path = UIGlossyButton;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +244,23 @@
 				8E57D1DF1772C7C40020515F /* Default@2x.png in Resources */,
 				8E57D1E11772C7C40020515F /* Default-568h@2x.png in Resources */,
 				8E57D1E71772C7C40020515F /* ViewController.xib in Resources */,
+				8E57D1EE1772C81B0020515F /* demodata.plist in Resources */,
+				8E57D1F71772CD9E0020515F /* beyond.png in Resources */,
+				8E57D1F81772CD9E0020515F /* 张学友.png in Resources */,
+				8E57D1F91772CD9E0020515F /* 林夕.png in Resources */,
+				8E57D1FA1772CD9E0020515F /* 王力宏.png in Resources */,
+				8E57D1FB1772CD9E0020515F /* 王菲.png in Resources */,
+				8E57D1FC1772CD9E0020515F /* 陈奕迅.png in Resources */,
+				8E57D1FD1772CD9E0020515F /* 黄伟文.png in Resources */,
+				8E57D2011772D00A0020515F /* 五月天.png in Resources */,
+				8E57D2021772D00A0020515F /* 杨千嬅.png in Resources */,
+				8E57D2031772D00A0020515F /* 何韵诗.png in Resources */,
+				8E57D2061772D1890020515F /* icon.png in Resources */,
+				8E57D2071772D1890020515F /* icon@2x.png in Resources */,
+				8E57D20E1772D3040020515F /* cart_full_show.png in Resources */,
+				8E57D20F1772D3040020515F /* cart_full_show@2x.png in Resources */,
+				8E57D2121772D3300020515F /* cart_empty.png in Resources */,
+				8E57D2131772D3300020515F /* cart_empty@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +274,8 @@
 				8E57D1D71772C7C40020515F /* main.m in Sources */,
 				8E57D1DB1772C7C40020515F /* AppDelegate.m in Sources */,
 				8E57D1E41772C7C40020515F /* ViewController.m in Sources */,
+				8E57D2191772D3CF0020515F /* UIGlossyButton.m in Sources */,
+				8E57D21A1772D3CF0020515F /* UIView+LayerEffects.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +363,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AddShopCar demo/AddShopCar demo-Prefix.pch";
 				INFOPLIST_FILE = "AddShopCar demo/AddShopCar demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -274,6 +375,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AddShopCar demo/AddShopCar demo-Prefix.pch";
 				INFOPLIST_FILE = "AddShopCar demo/AddShopCar demo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -298,6 +400,7 @@
 				8E57D1EC1772C7C40020515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
